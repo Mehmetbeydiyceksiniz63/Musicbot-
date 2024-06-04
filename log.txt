@@ -1,0 +1,433 @@
+[08-Apr-24 21:26:29 - INFO] - AlisaMusicBot.core.mongo - Connecting to your Mongo Database...
+[08-Apr-24 21:26:29 - INFO] - AlisaMusicBot.core.mongo - Connected to your Mongo Database.
+[08-Apr-24 21:26:29 - INFO] - AlisaMusicBot.core.dir - Directories Updated.
+[08-Apr-24 21:26:35 - INFO] - AlisaMusicBot.core.mongo - Connecting to your Mongo Database...
+[08-Apr-24 21:26:35 - INFO] - AlisaMusicBot.core.mongo - Connected to your Mongo Database.
+[08-Apr-24 21:26:35 - INFO] - AlisaMusicBot.core.dir - Directories Updated.
+[08-Apr-24 21:26:35 - INFO] - AlisaMusicBot.core.git - Git Client Found [VPS DEPLOYER]
+[08-Apr-24 21:26:35 - INFO] - AlisaMusicBot.misc - Local Database Initialized.
+[08-Apr-24 21:26:35 - INFO] - AlisaMusicBot.core.bot - Starting Bot...
+[08-Apr-24 21:27:24 - INFO] - AlisaMusicBot.core.mongo - Connecting to your Mongo Database...
+[08-Apr-24 21:27:24 - INFO] - AlisaMusicBot.core.mongo - Connected to your Mongo Database.
+[08-Apr-24 21:27:24 - INFO] - AlisaMusicBot.core.dir - Directories Updated.
+[08-Apr-24 21:27:24 - INFO] - AlisaMusicBot.core.git - Git Client Found [VPS DEPLOYER]
+[08-Apr-24 21:27:24 - INFO] - AlisaMusicBot.misc - Local Database Initialized.
+[08-Apr-24 21:27:24 - INFO] - AlisaMusicBot.core.bot - Starting Bot...
+[08-Apr-24 21:28:33 - INFO] - AlisaMusicBot.core.mongo - Connecting to your Mongo Database...
+[08-Apr-24 21:28:33 - INFO] - AlisaMusicBot.core.mongo - Connected to your Mongo Database.
+[08-Apr-24 21:28:33 - INFO] - AlisaMusicBot.core.dir - Directories Updated.
+[08-Apr-24 21:28:33 - INFO] - AlisaMusicBot.core.git - Git Client Found [VPS DEPLOYER]
+[08-Apr-24 21:28:33 - INFO] - AlisaMusicBot.misc - Local Database Initialized.
+[08-Apr-24 21:28:33 - INFO] - AlisaMusicBot.core.bot - Starting Bot...
+[08-Apr-24 21:30:25 - INFO] - AlisaMusicBot.core.mongo - Connecting to your Mongo Database...
+[08-Apr-24 21:30:25 - INFO] - AlisaMusicBot.core.mongo - Connected to your Mongo Database.
+[08-Apr-24 21:30:25 - INFO] - AlisaMusicBot.core.dir - Directories Updated.
+[08-Apr-24 21:30:25 - INFO] - AlisaMusicBot.core.git - Git Client Found [VPS DEPLOYER]
+[08-Apr-24 21:30:25 - INFO] - AlisaMusicBot.misc - Local Database Initialized.
+[08-Apr-24 21:30:25 - INFO] - AlisaMusicBot.core.bot - Starting Bot...
+[08-Apr-24 21:31:10 - INFO] - AlisaMusicBot.core.mongo - Connecting to your Mongo Database...
+[08-Apr-24 21:31:10 - INFO] - AlisaMusicBot.core.mongo - Connected to your Mongo Database.
+[08-Apr-24 21:31:10 - INFO] - AlisaMusicBot.core.dir - Directories Updated.
+[08-Apr-24 21:31:10 - INFO] - AlisaMusicBot.core.git - Git Client Found [VPS DEPLOYER]
+[08-Apr-24 21:31:10 - INFO] - AlisaMusicBot.misc - Local Database Initialized.
+[08-Apr-24 21:31:10 - INFO] - AlisaMusicBot.core.bot - Starting Bot...
+[08-Apr-24 21:31:14 - INFO] - AlisaMusicBot.misc - Sudoers Loaded.
+[08-Apr-24 21:31:21 - INFO] - AlisaMusicBot.core.bot - Music Bot Started as Alisa Müzik 
+[08-Apr-24 21:32:55 - INFO] - AlisaMusicBot.core.mongo - Connecting to your Mongo Database...
+[08-Apr-24 21:32:55 - INFO] - AlisaMusicBot.core.mongo - Connected to your Mongo Database.
+[08-Apr-24 21:32:55 - INFO] - AlisaMusicBot.core.dir - Directories Updated.
+[08-Apr-24 21:32:55 - INFO] - AlisaMusicBot.core.git - Git Client Found [VPS DEPLOYER]
+[08-Apr-24 21:32:55 - INFO] - AlisaMusicBot.misc - Local Database Initialized.
+[08-Apr-24 21:32:55 - INFO] - AlisaMusicBot.core.bot - Starting Bot...
+[08-Apr-24 21:32:58 - INFO] - AlisaMusicBot.misc - Sudoers Loaded.
+[08-Apr-24 21:33:05 - INFO] - AlisaMusicBot.core.bot - Music Bot Started as Alisa Müzik 
+[08-Apr-24 21:33:05 - INFO] - AlisaMusicBot.plugins - Modüller Başarıyla İçe Aktarıldı...
+[08-Apr-24 21:33:05 - INFO] - AlisaMusicBot.core.userbot - Starting Assistants...
+[08-Apr-24 21:33:11 - INFO] - AlisaMusicBot.core.userbot - Assistant Started as <a href=tg://user?id=6972430017>Alisa Asisstant</a>
+[08-Apr-24 21:33:11 - INFO] - AlisaMusicBot.core.call - Starting PyTgCalls Client...
+
+[08-Apr-24 21:33:19 - INFO] - AlisaMusicBot - AlisaMusicBot Başladı...
+[08-Apr-24 21:35:54 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Apr-24 21:35:54 - INFO] - AlisaMusicBot.core.userbot - Stopping Assistants...
+[08-Apr-24 21:35:54 - INFO] - AlisaMusicBot - AlisaMusicBot Durduruluyor...
+[08-Apr-24 21:36:37 - INFO] - AlisaMusicBot.core.mongo - Connecting to your Mongo Database...
+[08-Apr-24 21:36:37 - INFO] - AlisaMusicBot.core.mongo - Connected to your Mongo Database.
+[08-Apr-24 21:36:37 - INFO] - AlisaMusicBot.core.dir - Directories Updated.
+[08-Apr-24 21:36:37 - INFO] - AlisaMusicBot.core.git - Git Client Found [VPS DEPLOYER]
+[08-Apr-24 21:36:37 - INFO] - AlisaMusicBot.misc - Local Database Initialized.
+[08-Apr-24 21:36:37 - INFO] - AlisaMusicBot.core.bot - Starting Bot...
+[08-Apr-24 21:36:41 - INFO] - AlisaMusicBot.misc - Sudoers Loaded.
+[08-Apr-24 21:36:49 - INFO] - AlisaMusicBot.core.bot - Music Bot Started as Alisa Müzik 
+[08-Apr-24 21:36:49 - INFO] - AlisaMusicBot.plugins - Modüller Başarıyla İçe Aktarıldı...
+[08-Apr-24 21:36:49 - INFO] - AlisaMusicBot.core.userbot - Starting Assistants...
+[08-Apr-24 21:36:54 - INFO] - AlisaMusicBot.core.userbot - Assistant Started as <a href=tg://user?id=6972430017>Alisa Asisstant</a>
+[08-Apr-24 21:36:54 - INFO] - AlisaMusicBot.core.call - Starting PyTgCalls Client...
+
+[08-Apr-24 21:37:02 - INFO] - AlisaMusicBot - AlisaMusicBot Başladı...
+[08-Apr-24 21:37:22 - ERROR] - pyrogram.dispatcher - module 'config' has no attribute 'OWNER'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/AlisaMusicBot/AlisaMusicBot/utils/decorators/language.py", line 56, in wrapper
+    return await mystic(_, message, language)
+  File "/root/AlisaMusicBot/AlisaMusicBot/plugins/bot/start.py", line 95, in start_pm
+    out = private_panel(_)
+  File "/root/AlisaMusicBot/AlisaMusicBot/utils/inline/start.py", line 28, in private_panel
+    InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER),
+AttributeError: module 'config' has no attribute 'OWNER'
+[08-Apr-24 21:38:14 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Apr-24 21:38:14 - INFO] - AlisaMusicBot.core.userbot - Stopping Assistants...
+[08-Apr-24 21:38:14 - INFO] - AlisaMusicBot - AlisaMusicBot Durduruluyor...
+[08-Apr-24 21:40:42 - INFO] - AlisaMusicBot.core.mongo - Connecting to your Mongo Database...
+[08-Apr-24 21:40:42 - INFO] - AlisaMusicBot.core.mongo - Connected to your Mongo Database.
+[08-Apr-24 21:40:42 - INFO] - AlisaMusicBot.core.dir - Directories Updated.
+[08-Apr-24 21:40:42 - INFO] - AlisaMusicBot.core.git - Git Client Found [VPS DEPLOYER]
+[08-Apr-24 21:40:42 - INFO] - AlisaMusicBot.misc - Local Database Initialized.
+[08-Apr-24 21:40:42 - INFO] - AlisaMusicBot.core.bot - Starting Bot...
+[08-Apr-24 21:40:45 - INFO] - AlisaMusicBot.misc - Sudoers Loaded.
+[08-Apr-24 21:40:53 - INFO] - AlisaMusicBot.core.bot - Music Bot Started as Alisa Müzik 
+[08-Apr-24 21:40:53 - INFO] - AlisaMusicBot.plugins - Modüller Başarıyla İçe Aktarıldı...
+[08-Apr-24 21:40:53 - INFO] - AlisaMusicBot.core.userbot - Starting Assistants...
+[08-Apr-24 21:40:58 - INFO] - AlisaMusicBot.core.userbot - Assistant Started as <a href=tg://user?id=6972430017>Alisa Asisstant</a>
+[08-Apr-24 21:40:58 - INFO] - AlisaMusicBot.core.call - Starting PyTgCalls Client...
+
+[08-Apr-24 21:41:06 - INFO] - AlisaMusicBot - AlisaMusicBot Başladı...
+[08-Apr-24 21:41:18 - ERROR] - pyrogram.dispatcher - Failed to decode "s". The value does not represent an existing local file, HTTP URL, or valid file id.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/utils.py", line 49, in get_input_media_from_file_id
+    decoded = FileId.decode(file_id)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/file_id.py", line 201, in decode
+    decoded = rle_decode(b64_decode(file_id))
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/file_id.py", line 54, in b64_decode
+    return base64.urlsafe_b64decode(s + "=" * (-len(s) % 4))
+  File "/usr/lib/python3.8/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/AlisaMusicBot/AlisaMusicBot/utils/decorators/language.py", line 56, in wrapper
+    return await mystic(_, message, language)
+  File "/root/AlisaMusicBot/AlisaMusicBot/plugins/bot/start.py", line 98, in start_pm
+    await message.reply_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/types/messages_and_media/message.py", line 2000, in reply_photo
+    return await self._client.send_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/methods/messages/send_photo.py", line 166, in send_photo
+    media = utils.get_input_media_from_file_id(photo, FileType.PHOTO, ttl_seconds=ttl_seconds)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/utils.py", line 51, in get_input_media_from_file_id
+    raise ValueError(
+ValueError: Failed to decode "s". The value does not represent an existing local file, HTTP URL, or valid file id.
+[08-Apr-24 21:41:33 - ERROR] - pyrogram.dispatcher - Failed to decode "A". The value does not represent an existing local file, HTTP URL, or valid file id.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/utils.py", line 49, in get_input_media_from_file_id
+    decoded = FileId.decode(file_id)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/file_id.py", line 201, in decode
+    decoded = rle_decode(b64_decode(file_id))
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/file_id.py", line 54, in b64_decode
+    return base64.urlsafe_b64decode(s + "=" * (-len(s) % 4))
+  File "/usr/lib/python3.8/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/AlisaMusicBot/AlisaMusicBot/utils/decorators/language.py", line 56, in wrapper
+    return await mystic(_, message, language)
+  File "/root/AlisaMusicBot/AlisaMusicBot/plugins/bot/start.py", line 98, in start_pm
+    await message.reply_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/types/messages_and_media/message.py", line 2000, in reply_photo
+    return await self._client.send_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/methods/messages/send_photo.py", line 166, in send_photo
+    media = utils.get_input_media_from_file_id(photo, FileType.PHOTO, ttl_seconds=ttl_seconds)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/utils.py", line 51, in get_input_media_from_file_id
+    raise ValueError(
+ValueError: Failed to decode "A". The value does not represent an existing local file, HTTP URL, or valid file id.
+[08-Apr-24 21:42:49 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Apr-24 21:42:49 - INFO] - AlisaMusicBot.core.userbot - Stopping Assistants...
+[08-Apr-24 21:42:49 - INFO] - AlisaMusicBot - AlisaMusicBot Durduruluyor...
+[08-Apr-24 21:43:52 - INFO] - AlisaMusicBot.core.mongo - Connecting to your Mongo Database...
+[08-Apr-24 21:43:53 - INFO] - AlisaMusicBot.core.mongo - Connected to your Mongo Database.
+[08-Apr-24 21:43:53 - INFO] - AlisaMusicBot.core.dir - Directories Updated.
+[08-Apr-24 21:43:53 - INFO] - AlisaMusicBot.core.git - Git Client Found [VPS DEPLOYER]
+[08-Apr-24 21:43:53 - INFO] - AlisaMusicBot.misc - Local Database Initialized.
+[08-Apr-24 21:43:53 - INFO] - AlisaMusicBot.core.bot - Starting Bot...
+[08-Apr-24 21:43:56 - INFO] - AlisaMusicBot.misc - Sudoers Loaded.
+[08-Apr-24 21:44:04 - INFO] - AlisaMusicBot.core.bot - Music Bot Started as Alisa Müzik 
+[08-Apr-24 21:44:04 - INFO] - AlisaMusicBot.plugins - Modüller Başarıyla İçe Aktarıldı...
+[08-Apr-24 21:44:04 - INFO] - AlisaMusicBot.core.userbot - Starting Assistants...
+[08-Apr-24 21:44:09 - INFO] - AlisaMusicBot.core.userbot - Assistant Started as <a href=tg://user?id=6972430017>Alisa Asisstant</a>
+[08-Apr-24 21:44:09 - INFO] - AlisaMusicBot.core.call - Starting PyTgCalls Client...
+
+[08-Apr-24 21:44:12 - ERROR] - pyrogram.dispatcher - Failed to decode "s". The value does not represent an existing local file, HTTP URL, or valid file id.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/utils.py", line 49, in get_input_media_from_file_id
+    decoded = FileId.decode(file_id)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/file_id.py", line 201, in decode
+    decoded = rle_decode(b64_decode(file_id))
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/file_id.py", line 54, in b64_decode
+    return base64.urlsafe_b64decode(s + "=" * (-len(s) % 4))
+  File "/usr/lib/python3.8/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/AlisaMusicBot/AlisaMusicBot/utils/decorators/language.py", line 56, in wrapper
+    return await mystic(_, message, language)
+  File "/root/AlisaMusicBot/AlisaMusicBot/plugins/bot/start.py", line 98, in start_pm
+    await message.reply_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/types/messages_and_media/message.py", line 2000, in reply_photo
+    return await self._client.send_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/methods/messages/send_photo.py", line 166, in send_photo
+    media = utils.get_input_media_from_file_id(photo, FileType.PHOTO, ttl_seconds=ttl_seconds)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/utils.py", line 51, in get_input_media_from_file_id
+    raise ValueError(
+ValueError: Failed to decode "s". The value does not represent an existing local file, HTTP URL, or valid file id.
+[08-Apr-24 21:44:20 - INFO] - AlisaMusicBot - AlisaMusicBot Başladı...
+[08-Apr-24 21:44:35 - ERROR] - pyrogram.dispatcher - Failed to decode "t". The value does not represent an existing local file, HTTP URL, or valid file id.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/utils.py", line 49, in get_input_media_from_file_id
+    decoded = FileId.decode(file_id)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/file_id.py", line 201, in decode
+    decoded = rle_decode(b64_decode(file_id))
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/file_id.py", line 54, in b64_decode
+    return base64.urlsafe_b64decode(s + "=" * (-len(s) % 4))
+  File "/usr/lib/python3.8/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/AlisaMusicBot/AlisaMusicBot/utils/decorators/language.py", line 56, in wrapper
+    return await mystic(_, message, language)
+  File "/root/AlisaMusicBot/AlisaMusicBot/plugins/bot/start.py", line 98, in start_pm
+    await message.reply_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/types/messages_and_media/message.py", line 2000, in reply_photo
+    return await self._client.send_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/methods/messages/send_photo.py", line 166, in send_photo
+    media = utils.get_input_media_from_file_id(photo, FileType.PHOTO, ttl_seconds=ttl_seconds)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/utils.py", line 51, in get_input_media_from_file_id
+    raise ValueError(
+ValueError: Failed to decode "t". The value does not represent an existing local file, HTTP URL, or valid file id.
+[08-Apr-24 21:45:58 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Apr-24 21:45:58 - INFO] - AlisaMusicBot.core.userbot - Stopping Assistants...
+[08-Apr-24 21:45:58 - INFO] - AlisaMusicBot - AlisaMusicBot Durduruluyor...
+[08-Apr-24 21:46:27 - INFO] - AlisaMusicBot.core.mongo - Connecting to your Mongo Database...
+[08-Apr-24 21:46:27 - INFO] - AlisaMusicBot.core.mongo - Connected to your Mongo Database.
+[08-Apr-24 21:46:27 - INFO] - AlisaMusicBot.core.dir - Directories Updated.
+[08-Apr-24 21:46:27 - INFO] - AlisaMusicBot.core.git - Git Client Found [VPS DEPLOYER]
+[08-Apr-24 21:46:27 - INFO] - AlisaMusicBot.misc - Local Database Initialized.
+[08-Apr-24 21:46:27 - INFO] - AlisaMusicBot.core.bot - Starting Bot...
+[08-Apr-24 21:46:31 - INFO] - AlisaMusicBot.misc - Sudoers Loaded.
+[08-Apr-24 21:46:38 - INFO] - AlisaMusicBot.core.bot - Music Bot Started as Alisa Müzik 
+[08-Apr-24 21:46:38 - INFO] - AlisaMusicBot.plugins - Modüller Başarıyla İçe Aktarıldı...
+[08-Apr-24 21:46:38 - INFO] - AlisaMusicBot.core.userbot - Starting Assistants...
+[08-Apr-24 21:46:43 - INFO] - AlisaMusicBot.core.userbot - Assistant Started as <a href=tg://user?id=6972430017>Alisa Asisstant</a>
+[08-Apr-24 21:46:43 - INFO] - AlisaMusicBot.core.call - Starting PyTgCalls Client...
+
+[08-Apr-24 21:46:48 - ERROR] - pyrogram.dispatcher - Failed to decode "c". The value does not represent an existing local file, HTTP URL, or valid file id.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/utils.py", line 49, in get_input_media_from_file_id
+    decoded = FileId.decode(file_id)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/file_id.py", line 201, in decode
+    decoded = rle_decode(b64_decode(file_id))
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/file_id.py", line 54, in b64_decode
+    return base64.urlsafe_b64decode(s + "=" * (-len(s) % 4))
+  File "/usr/lib/python3.8/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/AlisaMusicBot/AlisaMusicBot/utils/decorators/language.py", line 56, in wrapper
+    return await mystic(_, message, language)
+  File "/root/AlisaMusicBot/AlisaMusicBot/plugins/bot/start.py", line 98, in start_pm
+    await message.reply_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/types/messages_and_media/message.py", line 2000, in reply_photo
+    return await self._client.send_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/methods/messages/send_photo.py", line 166, in send_photo
+    media = utils.get_input_media_from_file_id(photo, FileType.PHOTO, ttl_seconds=ttl_seconds)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/utils.py", line 51, in get_input_media_from_file_id
+    raise ValueError(
+ValueError: Failed to decode "c". The value does not represent an existing local file, HTTP URL, or valid file id.
+[08-Apr-24 21:46:51 - INFO] - AlisaMusicBot - AlisaMusicBot Başladı...
+[08-Apr-24 21:46:58 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Apr-24 21:46:58 - INFO] - AlisaMusicBot.core.userbot - Stopping Assistants...
+[08-Apr-24 21:46:58 - INFO] - AlisaMusicBot - AlisaMusicBot Durduruluyor...
+[08-Apr-24 21:47:26 - INFO] - AlisaMusicBot.core.mongo - Connecting to your Mongo Database...
+[08-Apr-24 21:47:26 - INFO] - AlisaMusicBot.core.mongo - Connected to your Mongo Database.
+[08-Apr-24 21:47:26 - INFO] - AlisaMusicBot.core.dir - Directories Updated.
+[08-Apr-24 21:47:26 - INFO] - AlisaMusicBot.core.git - Git Client Found [VPS DEPLOYER]
+[08-Apr-24 21:47:26 - INFO] - AlisaMusicBot.misc - Local Database Initialized.
+[08-Apr-24 21:47:26 - INFO] - AlisaMusicBot.core.bot - Starting Bot...
+[08-Apr-24 21:47:29 - INFO] - AlisaMusicBot.misc - Sudoers Loaded.
+[08-Apr-24 21:47:37 - INFO] - AlisaMusicBot.core.bot - Music Bot Started as Alisa Müzik 
+[08-Apr-24 21:47:37 - INFO] - AlisaMusicBot.plugins - Modüller Başarıyla İçe Aktarıldı...
+[08-Apr-24 21:47:37 - INFO] - AlisaMusicBot.core.userbot - Starting Assistants...
+[08-Apr-24 21:47:42 - INFO] - AlisaMusicBot.core.userbot - Assistant Started as <a href=tg://user?id=6972430017>Alisa Asisstant</a>
+[08-Apr-24 21:47:42 - INFO] - AlisaMusicBot.core.call - Starting PyTgCalls Client...
+
+[08-Apr-24 21:47:50 - ERROR] - pyrogram.dispatcher - Failed to decode "e". The value does not represent an existing local file, HTTP URL, or valid file id.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/utils.py", line 49, in get_input_media_from_file_id
+    decoded = FileId.decode(file_id)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/file_id.py", line 201, in decode
+    decoded = rle_decode(b64_decode(file_id))
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/file_id.py", line 54, in b64_decode
+    return base64.urlsafe_b64decode(s + "=" * (-len(s) % 4))
+  File "/usr/lib/python3.8/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/AlisaMusicBot/AlisaMusicBot/utils/decorators/language.py", line 56, in wrapper
+    return await mystic(_, message, language)
+  File "/root/AlisaMusicBot/AlisaMusicBot/plugins/bot/start.py", line 98, in start_pm
+    await message.reply_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/types/messages_and_media/message.py", line 2000, in reply_photo
+    return await self._client.send_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/methods/messages/send_photo.py", line 166, in send_photo
+    media = utils.get_input_media_from_file_id(photo, FileType.PHOTO, ttl_seconds=ttl_seconds)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/utils.py", line 51, in get_input_media_from_file_id
+    raise ValueError(
+ValueError: Failed to decode "e". The value does not represent an existing local file, HTTP URL, or valid file id.
+[08-Apr-24 21:47:50 - INFO] - AlisaMusicBot - AlisaMusicBot Başladı...
+[08-Apr-24 21:50:49 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Apr-24 21:50:49 - INFO] - AlisaMusicBot.core.userbot - Stopping Assistants...
+[08-Apr-24 21:50:49 - INFO] - AlisaMusicBot - AlisaMusicBot Durduruluyor...
+[08-Apr-24 21:52:49 - INFO] - AlisaMusicBot.core.mongo - Connecting to your Mongo Database...
+[08-Apr-24 21:52:49 - INFO] - AlisaMusicBot.core.mongo - Connected to your Mongo Database.
+[08-Apr-24 21:52:49 - INFO] - AlisaMusicBot.core.dir - Directories Updated.
+[08-Apr-24 21:52:49 - INFO] - AlisaMusicBot.core.git - Git Client Found [VPS DEPLOYER]
+[08-Apr-24 21:52:49 - INFO] - AlisaMusicBot.misc - Local Database Initialized.
+[08-Apr-24 21:52:49 - INFO] - AlisaMusicBot.core.bot - Starting Bot...
+[08-Apr-24 21:52:52 - INFO] - AlisaMusicBot.misc - Sudoers Loaded.
+[08-Apr-24 21:53:00 - INFO] - AlisaMusicBot.core.bot - Music Bot Started as Alisa Müzik 
+[08-Apr-24 21:53:00 - INFO] - AlisaMusicBot.plugins - Modüller Başarıyla İçe Aktarıldı...
+[08-Apr-24 21:53:00 - INFO] - AlisaMusicBot.core.userbot - Starting Assistants...
+[08-Apr-24 21:53:06 - INFO] - AlisaMusicBot.core.userbot - Assistant Started as <a href=tg://user?id=6972430017>Alisa Asisstant</a>
+[08-Apr-24 21:53:06 - INFO] - AlisaMusicBot.core.call - Starting PyTgCalls Client...
+
+[08-Apr-24 21:53:13 - INFO] - AlisaMusicBot - AlisaMusicBot Başladı...
+[08-Apr-24 21:58:26 - ERROR] - pyrogram.dispatcher - Failed to decode "e". The value does not represent an existing local file, HTTP URL, or valid file id.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/utils.py", line 49, in get_input_media_from_file_id
+    decoded = FileId.decode(file_id)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/file_id.py", line 201, in decode
+    decoded = rle_decode(b64_decode(file_id))
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/file_id.py", line 54, in b64_decode
+    return base64.urlsafe_b64decode(s + "=" * (-len(s) % 4))
+  File "/usr/lib/python3.8/base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "/usr/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (1) cannot be 1 more than a multiple of 4
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/AlisaMusicBot/AlisaMusicBot/utils/decorators/language.py", line 26, in wrapper
+    return await mystic(_, message, language)
+  File "/root/AlisaMusicBot/AlisaMusicBot/plugins/tools/stats.py", line 26, in stats_global
+    await message.reply_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/types/messages_and_media/message.py", line 2000, in reply_photo
+    return await self._client.send_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/methods/messages/send_photo.py", line 166, in send_photo
+    media = utils.get_input_media_from_file_id(photo, FileType.PHOTO, ttl_seconds=ttl_seconds)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/utils.py", line 51, in get_input_media_from_file_id
+    raise ValueError(
+ValueError: Failed to decode "e". The value does not represent an existing local file, HTTP URL, or valid file id.
+[08-Apr-24 22:02:40 - ERROR] - pyrogram.dispatcher - 'Message' object is not subscriptable
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/AlisaMusicBot/AlisaMusicBot/utils/decorators/language.py", line 26, in wrapper
+    return await mystic(_, message, language)
+  File "/root/AlisaMusicBot/AlisaMusicBot/plugins/tools/speedtest.py", line 35, in speedtest_function
+    result["client"]["isp"],
+TypeError: 'Message' object is not subscriptable
+[08-Apr-24 22:11:40 - ERROR] - pyrogram.dispatcher - Telegram says: [403 Forbidden] - [403 CHAT_SEND_PHOTOS_FORBIDDEN] (caused by "messages.SendMedia")
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/AlisaMusicBot/AlisaMusicBot/utils/decorators/language.py", line 56, in wrapper
+    return await mystic(_, message, language)
+  File "/root/AlisaMusicBot/AlisaMusicBot/plugins/bot/start.py", line 104, in start_gp
+    await message.reply_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/types/messages_and_media/message.py", line 2000, in reply_photo
+    return await self._client.send_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/methods/messages/send_photo.py", line 177, in send_photo
+    r = await self.invoke(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/errors/rpc_error.py", line 80, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.forbidden_403.Forbidden: Telegram says: [403 Forbidden] - [403 CHAT_SEND_PHOTOS_FORBIDDEN] (caused by "messages.SendMedia")
+[08-Apr-24 22:12:13 - ERROR] - pyrogram.dispatcher - Telegram says: [403 Forbidden] - [403 CHAT_SEND_PHOTOS_FORBIDDEN] (caused by "messages.SendMedia")
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/AlisaMusicBot/AlisaMusicBot/utils/decorators/language.py", line 56, in wrapper
+    return await mystic(_, message, language)
+  File "/root/AlisaMusicBot/AlisaMusicBot/plugins/bot/start.py", line 104, in start_gp
+    await message.reply_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/types/messages_and_media/message.py", line 2000, in reply_photo
+    return await self._client.send_photo(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/methods/messages/send_photo.py", line 177, in send_photo
+    r = await self.invoke(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/usr/local/lib/python3.8/dist-packages/pyrogram/errors/rpc_error.py", line 80, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.forbidden_403.Forbidden: Telegram says: [403 Forbidden] - [403 CHAT_SEND_PHOTOS_FORBIDDEN] (caused by "messages.SendMedia")
+[09-Apr-24 01:13:59 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-79015' coro=<Call.decorators.<locals>.stream_end_handler1() done, defined at /root/AlisaMusicBot/AlisaMusicBot/core/call.py:590> exception=UnboundLocalError("local variable 'thumbnail' referenced before assignment")>
+Traceback (most recent call last):
+  File "/root/AlisaMusicBot/AlisaMusicBot/core/call.py", line 598, in stream_end_handler1
+    await self.change_stream(client, update.chat_id)
+  File "/root/AlisaMusicBot/AlisaMusicBot/core/call.py", line 528, in change_stream
+    img = await get_thumb(videoid)
+  File "/root/AlisaMusicBot/AlisaMusicBot/utils/thumbnails.py", line 97, in get_thumb
+    async with session.get(thumbnail) as resp:
+UnboundLocalError: local variable 'thumbnail' referenced before assignment
